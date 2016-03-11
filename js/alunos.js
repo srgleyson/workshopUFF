@@ -1,12 +1,12 @@
 var alunos = [
-    /*{
-        "nome": "wladek zacharski dos Santos",
+    {
+        "nome": "Gleyson Lauro Martins Cordeiro",
         "curso": "Ciência da Computação",
-        "mensagem": "Ta legal!"
+        "mensagem": "Metralhadora tra tra tra!"
     },
     {
         "nome": "Fulando de tal",
         "curso": "Outra coisas",
-        "mensagem": "Muito show"
-    }*/
+        "mensagem": "Tá tranquilo, tá favorável"
+    }
 ];
